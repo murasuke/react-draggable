@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-draggable/static/css/main.a617e044.chunk.css",
+    "main.js": "/react-draggable/static/js/main.cab2d78e.chunk.js",
+    "main.js.map": "/react-draggable/static/js/main.cab2d78e.chunk.js.map",
+    "runtime-main.js": "/react-draggable/static/js/runtime-main.2267b9a7.js",
+    "runtime-main.js.map": "/react-draggable/static/js/runtime-main.2267b9a7.js.map",
+    "static/css/2.9ba06b78.chunk.css": "/react-draggable/static/css/2.9ba06b78.chunk.css",
+    "static/js/2.abb38cb1.chunk.js": "/react-draggable/static/js/2.abb38cb1.chunk.js",
+    "static/js/2.abb38cb1.chunk.js.map": "/react-draggable/static/js/2.abb38cb1.chunk.js.map",
+    "index.html": "/react-draggable/index.html",
+    "static/css/2.9ba06b78.chunk.css.map": "/react-draggable/static/css/2.9ba06b78.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/react-draggable/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.abb38cb1.chunk.js.LICENSE.txt": "/react-draggable/static/js/2.abb38cb1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2267b9a7.js",
+    "static/css/2.9ba06b78.chunk.css",
+    "static/js/2.abb38cb1.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.cab2d78e.chunk.js"
+  ]
+}
