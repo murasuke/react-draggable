@@ -37,7 +37,7 @@ const DragDropLayout: VFC<ChildLayouts> = (props) => {
     setLog(
       JSON.stringify(state, null, '\t') +
         '\n' +
-        JSON.stringify(layout, null, '\t'),
+        JSON.stringify(layout, null, ' ').replaceAll(',\n', ','),
     );
   };
 
